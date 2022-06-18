@@ -18,3 +18,7 @@ This series is my ealier work and everything is drawn in very analog way, except
 ## git cherry-pick & git log
 
 ![Git cherry-pick explained with cats](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/git-purr/git-cherry-pick.jpg?raw=true)
+
+## git cheatsheet
+
+![Git cheatsheet](https://github.com/jlferrete/a-picture-is-worth-a-1000-words/blob/main/git-purr/Srikanth_Sreeram_git_cheatsheet.jpg?raw=true)
